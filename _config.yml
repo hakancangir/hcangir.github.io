@@ -33,8 +33,8 @@ resume_header_intro: "<p>I am a language instructor. I teach Turkish and English
 # Decide which sections to use
 # comment out to hide
 
-experience: "Ankara University, School of Foreign Languages"
-education: "BA: Ankara University (English Literature), MA: Bilkent University (TEFL), PhD: Hacettepe University (Linguistics)"
+resume_header_experience: "Ankara University, School of Foreign Languages"
+resume_header_education: "BA: Ankara University (English Literature), MA: Bilkent University (TEFL), PhD: Hacettepe University (Linguistics)"
    
 # resume_section_interests:       false
 
@@ -48,7 +48,3 @@ resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts

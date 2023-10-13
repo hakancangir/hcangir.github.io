@@ -21,7 +21,7 @@ resume_contact_telephone:       ""
 resume_contact_address:         "Ankara University, School of Foreign Languages"
 
 resume_header_contact_info:     "Ankara University • hcangir@ankara.edu.tr"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am a language instructor. I teach Turkish and English languages. I do research on the intersection of corpus linguistics and psycholinguistics. I am also interested in learner corpus research and natural language processing. </p>"
 

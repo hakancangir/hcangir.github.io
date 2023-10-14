@@ -33,8 +33,8 @@ resume_header_intro: "<p>I am a language instructor. I teach Turkish and English
 # Decide which sections to use
 # comment out to hide
 
-resume_header_experience: "true" "Ankara University, School of Foreign Languages"
-resume_header_education: "true" "BA: Ankara University (English Literature), MA: Bilkent University (TEFL), PhD: Hacettepe University (Linguistics)"
+resume_header_experience: "Ankara University, School of Foreign Languages"
+resume_header_education: "BA: Ankara University (English Literature), MA: Bilkent University (TEFL), PhD: Hacettepe University (Linguistics)"
    
 # resume_section_interests:       true
 
